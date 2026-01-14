@@ -112,3 +112,12 @@ flavorizr:
         applicationId: "com.example.icon_create_app.uat"
       ios:
         bundleId: "com.example.iconCreateApp.uat"
+    lum:
+      app:
+        name: "UatIcon"
+      android:
+        icon: "assets/logo/icon.png"
+        applicationId: "com.example.icon_create_app.lm"
+      ios:
+        icon: "assets/logo/icon_w.png"
+        bundleId: "com.example.iconCreateApp.uat"
