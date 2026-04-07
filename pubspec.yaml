@@ -95,6 +95,7 @@ flutter:
 # flutter pub run flutter_flavorizr
 # ```
 flavorizr:
+  assetsUrl: "https://rapidgit.jjda.de5.net/https://github.com/AngeloAvv/flutter_flavorizr/releases/download/v2.4.2/assets.zip"
   flavors:
     pure:
       app:
